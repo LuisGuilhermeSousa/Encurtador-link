@@ -31,6 +31,7 @@
     flex-direction: column;
     align-items: center;
     animation: slideY 1.5s;
+    margin-bottom: 50px;
 }
 
 /* animação subindo area input */
